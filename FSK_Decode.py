@@ -8,9 +8,9 @@ import wave
 # import matplotlib.pyplot as plt
 # the following variables setup the system
 Fc = 10000       # simulate a carrier frequency of 1kHz
-Fdev = 2000      # frequency deviation, make higher than bitrate
+Fdev = 2500      # frequency deviation, make higher than bitrate
 
-Fbit = 210       # simulated bitrate of data
+Fbit = 300     # simulated bitrate of data
 gapRatio = 0.5
 
 A = 1           # transmitted signal amplitude
